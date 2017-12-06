@@ -1,0 +1,103 @@
+#-------------------------------PLEASE NOTE-------------------------------------#
+# This file is the author's own work and represents the interpretation of 3     #
+# songs. You may only use this file for private study, scholarship, or research.#
+#-------------------------------------------------------------------------------#
+
+##  Old Neil Young "Plays for OPNFV"  ##
+
+ttto: I am a Child
+
+Verse
+Dm     C         Am               F
+I am a Committer,  some call me a Submitter
+Dm                  F               C               Em
+Jenkins SUCCESS and Merge  make me feel a whole lot better!
+Dm             C       Am             F
+We review our tickets,  but time runs short,
+Dm            Dm7                      D
+and Milestone exceptions are our last resort!
+
+Chorus
+Dm7                        Em7/D        D
+ I pull your commits,  now you pull for me,
+G                                 D
+We want to complete   our feature list
+Dm7                         Em7/D             D
+ The sky is blue,  but it's midnight and I can't see
+Am7                             C          
+What is the color,  of Functest PASSing?
+            Am7     D
+What is the color? 
+
+
+Verse
+Dm     C         Am            F
+I'm a P-T-L,       I'll last a while,
+Dm          F                C             Em
+When I step down,  you'll be blinded by my smile
+Dm              C    Am              F
+When Milestones near,   I'll bang my head,
+Dm        Dm7                 D
+until the Release   is put to bed...
+
+Chorus
+Dm7                        Em7/D        D
+ I Review for you, now you review   for me.
+G                              D
+I need to merge   your Rebased patch.
+Dm7                         Em7/D             D
+ The sky is blue,  but it's midnight and I can't see
+Am7                             C 
+What is the color,  of Functest PASSing?
+            Am7     D
+What is the color? 
+
+
+ttto: Old Man
+
+INTRO
+Dm9                                               D
+Old Man,  Looks at your lives, I coded a lot like you do...
+(repeat)
+         F        C         F
+D        F        C         F
+Verse
+D        F                          C                      G
+Old Man, Looks at your lives, Patch 34 and there's so many more.
+D                F                C                F
+Build Success is Paradise, let's mark that ticket Resolved!
+D             F                       C               G
+You Reviewed, first and last, But now Milestone 7 has passed,
+D              C                F                       G 
+And your all alone at last, But Wait -- Dave's still up too!
+
+OUTRO
+D                                Am7      Em7      G
+Old Man,  Look in my eyes, I'm a lot like you...
+(repeat)
+
+
+ttto: Long May You Run
+
+D A G D     Bm G A     D A G D    Bm A D  G  Bb  G  D
+
+D           A              G           D      
+We've been through,   many Releases together
+Bm             G         D      A 
+with trunks of memories, yet to see.
+D             A            G      D   
+We found work-arounds   in stormy weather.
+Bm       A       D
+cause  I play for O-P N-F V !!
+
+Chorus
+D            A         G        D
+Long may our code run, Long may code run,
+Bm             G            A 
+Although these changes have come 
+D                       A
+With our silver laptops shinin'  
+G      D         Bm         A     D   G 
+in the Sun.    Long may   OP-NFV run.
+
+Bb  G  D
